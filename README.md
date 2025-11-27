@@ -1,9 +1,10 @@
-# 1Click-StartMenu
-A context menu script to toggle Enable/Disable Windows 10 Start Menu 
+# distarter
+a script to toggle the windows 10 startmenu
 
-### StartMenu ON vs OFF
-![Screenshot (40)](https://github.com/amymor/1Click-StartMenu/assets/54497554/7a7bda5e-564b-4cc1-8310-1aa4d6232def)
-### Usage
-1. Download all files and put them in a folder.
-2. Run `Add-to-Desktop-Right-click.bat` batch script.
-3. Enjoy your new desktop context menu!
+![distarter desktop context-menu](screenshot.png)
+
+## changes
+- replace nsudo for gsudo (assumes it is installed)
+- remove submenu from context menu option
+- remove icon from context menu option
+- seperate toggle and desktop logic
