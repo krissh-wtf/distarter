@@ -1,5 +1,5 @@
 # distarter
-a script to toggle the windows 10 startmenu
+a script to toggle the windows 10 & 11 startmenu
 
 ![distarter desktop context-menu](screenshot.png)
 
